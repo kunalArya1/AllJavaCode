@@ -17,7 +17,6 @@ public class RunnableExampl2  implements Runnable{
         int i = 1;
         while (true){
             System.out.println(i + "World");
-            System.out.println(i + " Hello World");
 
 
         }
