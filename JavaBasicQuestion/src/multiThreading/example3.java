@@ -13,15 +13,10 @@ public class RunnableExampl2  implements Runnable{
     public static void main(String[] args) {
         RunnableExampl2 r2 = new RunnableExampl2();
         Thread th = new Thread(r2);
-        th.start();
-        int i = 1;
+//        th.start();
+//        int i = 1;
         while (true){
             System.out.println(i + "World ");
-            System.out.println(i + "World ");
-            System.out.println(i + "World ");
-            System.out.println(i + "World ");
-            System.out.println(i + "World ");
-
 
         }
     }
