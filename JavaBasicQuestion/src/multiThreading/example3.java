@@ -14,7 +14,7 @@ public class RunnableExampl2  implements Runnable{
         RunnableExampl2 r2 = new RunnableExampl2();
         Thread th = new Thread(r2);
 //        th.start();
-//        th.start();
+        th.start();
         int i = 1;
         while (true){
             System.out.println(i + "World ");
