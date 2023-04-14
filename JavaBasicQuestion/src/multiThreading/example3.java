@@ -28,7 +28,6 @@ public class RunnableExampl2  implements Runnable{
             System.out.println(i + "World ");
             System.out.println(i + "World ");
             System.out.println(i + "World ");
-            System.out.println(i + "World ");
 
 
 
