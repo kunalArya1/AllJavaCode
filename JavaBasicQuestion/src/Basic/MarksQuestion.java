@@ -7,11 +7,11 @@ import java.util.Scanner;
 public class MarksQuestion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter your math mark : ");
+        System.out.print("Enter your math mark : ");
         int math = sc.nextInt();
-        System.out.println("Enter your computer marks : ");
+        System.out.print("Enter your computer marks : ");
         int computer = sc.nextInt();
-        System.out.println("Enter your english marks : ");
+        System.out.print("Enter your english marks : ");
         int english = sc.nextInt();
         System.out.println("Your total marks are : "+ totalMarks(math,computer,english));
         System.out.println("Your percentage is : "+Percentage(math,computer,english)+"%");
