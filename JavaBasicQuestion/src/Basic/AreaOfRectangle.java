@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class AreaOfRectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter lenght : " );
+        System.out.print("Enter lenght : " );
         int lenght = sc.nextInt();
-        System.out.println("Enter breadth : ");
+        System.out.print("Enter breadth : ");
         int breadth = sc.nextInt();
         System.out.println("Area Of Rectangle : "+ AreaOfRectangle(lenght,breadth));
         System.out.println("Perimeter Of Rectangle : "+PerimeterOfRectangle(lenght,breadth));
