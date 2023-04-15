@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TeperatureConversition {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter temperature in Farn : ");
+        System.out.print("Enter temperature in Farn : ");
         int farn = sc.nextInt();
         System.out.println("Temperature in celsius : " +TemperatureConv(farn));
     }
