@@ -1,7 +1,7 @@
 package Basic;
 
 import java.util.Scanner;
-
+//Accept a year and check if it a leap year or not (google to find out what's a leap year)
 public class Q_21_LeapYear {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
