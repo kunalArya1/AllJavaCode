@@ -2,10 +2,8 @@ package Basic;
 
 import java.util.Scanner;
 
-<<<<<<< HEAD
 //Accept a day number between 1-7 and print the corresponding dayname.
-=======
->>>>>>> origin/master
+
 public class Q_19_DayName {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
