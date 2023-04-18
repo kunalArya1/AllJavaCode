@@ -14,7 +14,7 @@ public class Q_35_SumEvenAndOdd {
            if (i % 2 == 0){
                evenSum += i;
            }else {
-//               oddSum += i;
+               oddSum += i;
            }
         }
         System.out.println("Sum Of Even Number :- " + evenSum);
