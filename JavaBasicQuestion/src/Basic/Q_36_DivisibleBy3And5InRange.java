@@ -10,7 +10,7 @@ public class Q_36_DivisibleBy3And5InRange {
         int n = sc.nextInt();
         for (int i = 1; i <= n; i++) {
             if (i % 3 == 0 || i % 5 ==0){
-                System.out.println(i);
+//                System.out.println(i);
             }
         }
     }
