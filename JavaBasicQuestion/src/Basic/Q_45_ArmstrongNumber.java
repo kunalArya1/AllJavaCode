@@ -8,7 +8,7 @@ import java.util.Scanner;
 //              153 = 1 + 125 + 27 = 153
 public class Q_45_ArmstrongNumber {
     public static void main(String[] args) {
-//        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
     }
 }
