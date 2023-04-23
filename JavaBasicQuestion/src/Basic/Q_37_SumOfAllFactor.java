@@ -6,7 +6,16 @@ import java.util.Scanner;
 public class Q_37_SumOfAllFactor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
+        System.out.print("Enter a Number :- " );
+        int n = sc.nextInt();
+        int allFactorSum = 0;
+        for (int i = 1; i <= (n/2); i++) {
+            if (n%i==0){
+                allFactorSum += i;
+//                System.out.println(i);
+            }
+        }
+        System.out.println(allFactorSum);
     }
 
 }
