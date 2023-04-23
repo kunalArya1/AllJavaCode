@@ -7,6 +7,17 @@ import java.util.Scanner;
 public class Q_39_PerfectNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
+        System.out.print("Enter a Number :- ");
+        int num = sc.nextInt();
+        int factSum = 0;
+        for (int i = 1; i <= (num/2) ; i++) {
+            if (num % i ==0){
+                factSum += i;
+            }
+        }
+        if (factSum ==num){
+            System.out.println("Given Number is a Perfect Number");
+        }
+        else System.out.println("Given Number is not a Perfect Number");
     }
 }
