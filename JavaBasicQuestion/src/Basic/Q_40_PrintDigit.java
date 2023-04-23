@@ -9,8 +9,18 @@ public class Q_40_PrintDigit {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Number :- ");
         int n = sc.nextInt();
-//        for (int i = 1; i < ; i++) {
-//
-//        }
+        int digit;
+        while (n > 0 ){
+            digit=n%10;
+            System.out.println(digit);
+            n = n/10;
+        }
+        StringDigit(n);
+    }
+    public static void StringDigit(int num){
+        String Sting_Number = Integer.toString(num);
+        for (int i = 0; i < Sting_Number.length(); i++) {
+            System.out.println(Sting_Number.charAt(i));
+        }
     }
 }
