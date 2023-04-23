@@ -3,7 +3,7 @@ package Basic;
 import java.util.Scanner;
 
 //Accept the three sides of triangle and calculate the area using herons formula
-public class seventeen {
+public class Q_17_HeronsFormula {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first side of triangle :- ");

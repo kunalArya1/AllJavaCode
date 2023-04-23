@@ -4,7 +4,7 @@ package Basic;
 import java.util.Scanner;
 
 //11- Accept two numbers and print the greatest between them
-public class Eleven {
+public class Q_11GreaterBetweenTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first Number :- ");

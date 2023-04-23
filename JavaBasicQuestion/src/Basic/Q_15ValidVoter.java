@@ -7,7 +7,7 @@ import java.util.Scanner;
 //  Vaid - Hello Shery, You are a valid voter.
 //  Invalid - Sorry Shery, you can't cast the vote.
 //	Part 2 - Print after how many years the user will be eligible
-public class fifteen {
+public class Q_15ValidVoter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your name :- ");

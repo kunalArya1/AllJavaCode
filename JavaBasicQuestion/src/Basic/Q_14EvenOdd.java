@@ -3,7 +3,7 @@ package Basic;
 import java.util.Scanner;
 
 //14- Accept an integer and check whether it is an even number or odd.
-public class Fourteen {
+public class Q_14EvenOdd {
     public static void main(String[] args) {
         Scanner sc  = new Scanner(System.in);
         System.out.print("Enter a Number :- ");

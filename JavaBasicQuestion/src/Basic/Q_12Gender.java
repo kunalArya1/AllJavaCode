@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 //12- Accept the gender from the user as char and print the respective greeting message
 //     Ex - Good Morning Sir (on the basis of gender)
-public class Twelve {
+public class Q_12Gender {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your gender in (M/F) :- ");

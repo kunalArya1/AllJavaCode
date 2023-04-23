@@ -7,7 +7,7 @@ import java.util.Scanner;
 //	all are equal
 //	any of two are equal
 //	( use && ||)
-public class ten {
+public class Q_10eqalityCheckInThree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number :- ");

@@ -3,7 +3,7 @@ package Basic;
 import java.util.Scanner;
 
 //Accept the length and breadth of a rectangle.Calculate & print the area and perimiter
-public class AreaOfRectangle {
+public class Q_5AreaOfRectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter lenght : " );

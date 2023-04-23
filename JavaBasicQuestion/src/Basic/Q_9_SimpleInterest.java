@@ -3,7 +3,7 @@ package Basic;
 import java.util.Scanner;
 
 //Accept the Principle amount, time & rate of interest and calculate the Simple Interest
-public class nine {
+public class Q_9_SimpleInterest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Amount :- ");

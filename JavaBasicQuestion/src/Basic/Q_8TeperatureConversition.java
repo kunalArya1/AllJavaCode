@@ -2,7 +2,7 @@ package Basic;
 
 import java.util.Scanner;
 
-public class TeperatureConversition {
+public class Q_8TeperatureConversition {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter temperature in Farn : ");

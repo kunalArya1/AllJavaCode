@@ -2,7 +2,7 @@ package Basic;
 
 import java.util.Scanner;
 
-public class InputSumNum {
+public class Q_3_SumInput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first Number : ");
