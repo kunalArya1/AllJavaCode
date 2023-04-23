@@ -18,7 +18,7 @@ public class Q_35_SumEvenAndOdd {
            }
         }
         System.out.println("Sum Of Even Number :- " + evenSum);
-//        System.out.println("Sum of Odd Number :- " + oddSum);
+        System.out.println("Sum of Odd Number :- " + oddSum);
 
     }
 }
