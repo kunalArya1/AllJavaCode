@@ -16,6 +16,7 @@ public class Q_37_SumOfAllFactor {
             }
         }
         System.out.println(allFactorSum);
+        
     }
 
 }

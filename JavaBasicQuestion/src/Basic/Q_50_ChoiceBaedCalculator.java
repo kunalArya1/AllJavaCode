@@ -1,4 +1,4 @@
-package Basic;
+package JavaBasicQuestion.src.Basic;
 
 
 //Make a choice based calculator using do while
