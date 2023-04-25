@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment="" />
+    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AllJavaCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AllJavaCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_10eqalityCheckInThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_11GreaterBetweenTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_12Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_13GenderInputChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_14EvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_15ValidVoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_16_CompoundInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_17_HeronsFormula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_18_Quadratic_Equ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_19_DayName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_1_and_2_SumOfTwoNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_20_GreatestThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_21_LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_22_MethodExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_27_VowelCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_28_Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_29_PrintHelloNTimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_30_N_NaturalNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_31_NToOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_32_PrintTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_33_SumUpToNTerms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_34_Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_35_SumEvenAndOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_36_DivisibleBy3And5InRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_37_SumOfAllFactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_38_AllFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_39_PerfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_3_SumInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_40_PrintDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_41_SumOfDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_42_Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_43_RevrseANumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_44_PallindromicNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_45_ArmstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_46_StrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_47_HarshadNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_48_AutomorphicNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_49_DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_4_InputExampl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_50_ChoiceBaedCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_5AreaOfRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_7MarksQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_8TeperatureConversition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Basic/Q_9_SimpleInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/ClassAndObject/television.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/ClassAndObject/tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/carExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/luxCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/smartTv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/Oops/methodOverriding/tvExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/array/arrayListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/array/syntax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/array/twoDArraySyntax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/exceptionHandling/errorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/exceptionHandling/lowBalanceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/exceptionHandling/multipleCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/exceptionHandling/nestedTryCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/exceptionHandling/throwException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/exceptionHandling/tryAndCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/exceptionHandling/userDefinedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/multiThreading/RunnableExampl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/multiThreading/myThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/multiThreading/oneFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/multiThreading/runnableExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/multiThreading/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/multiThreading/threadExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/out/production/JavaBasicQuestion/multiThreading/threadExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_48_AutomorphicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_48_AutomorphicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +106,93 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "K:/1.P_LANGUAGE/1.JAVA/CODE/JAVA_SHERY/AllJavaCode"
+    "last_opened_file_path": "K:/1.P_LANGUAGE/1.JAVA/CODE/JAVA_SHERY/AllJavaCodes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "profiler.calltree.filter",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Q_3_SumInput">
+    <configuration name="JavaBasicQuestion.src.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.main" />
+      <module name="AllJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasicQuestion.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_1_and_2_SumOfTwoNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Q_1_and_2_SumOfTwoNum" />
+      <module name="AllJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_3_SumInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Q_3_SumInput" />
+      <module name="AllJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AllJavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-18.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/JavaBasicQuestion/src/Main.java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.JavaBasicQuestion.src.main" />
+      <item itemvalue="Application.Q_1_and_2_SumOfTwoNum" />
+      <item itemvalue="Application.Q_3_SumInput" />
+      <item itemvalue="Java Scratch.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q_3_SumInput" />
+        <item itemvalue="Application.Q_1_and_2_SumOfTwoNum" />
+        <item itemvalue="Application.JavaBasicQuestion.src.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +203,11 @@
       <updated>1680153676005</updated>
       <workItem from="1680153678405" duration="55000" />
       <workItem from="1681627155586" duration="35000" />
+      <workItem from="1682440004929" duration="646000" />
+      <workItem from="1682440665540" duration="253000" />
+      <workItem from="1682441108136" duration="18000" />
+      <workItem from="1682441142563" duration="11000" />
+      <workItem from="1682441965528" duration="1463000" />
     </task>
     <servers />
   </component>

@@ -22,4 +22,31 @@ public class Q_7MarksQuestion {
     public static int Percentage(int math,int computer,int english){
         return ((math+english+computer)/3);
     }
+
+    //4- Accept the User's name, age and print in following manner
+    //	Ex - Hello Shery, you are 12 years old.
+    public static class Q_4_InputExampl {
+        public static void main(String[] args) {
+            Scanner sc = new Scanner(System.in);
+            System.out.print("Enter your name :- " );
+            String name = sc.nextLine();
+            System.out.print("Enter your age :- ");
+            int age = sc.nextInt();
+            System.out.println("Hello " + name +" , You are " + age + " Years old.");
+        }
+    }
+
+    public static class Q_3_SumInput {
+        public static void main(String[] args) {
+            Scanner sc = new Scanner(System.in);
+            System.out.print("Enter first Number : ");
+            int a = sc.nextInt();
+            System.out.print("Enter Second Number : ");
+            int b = sc.nextInt();
+            System.out.print("Sum of Two Number : " + sumOfTwoNum(a,b));
+        }
+        public static int sumOfTwoNum(int a,int b){
+            return (a+b);
+        }
+    }
 }
