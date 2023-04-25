@@ -1,4 +1,4 @@
-package Basic;
+package JavaBasicQuestion.src.Basic;
 
 import java.util.Scanner;
 /*
