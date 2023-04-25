@@ -1,4 +1,4 @@
-package Basic;
+package JavaBasicQuestion.src.Basic;
 
 import java.util.Scanner;
 //Accept the value of a, b, c - The values in a quadratic equation and find its roots.

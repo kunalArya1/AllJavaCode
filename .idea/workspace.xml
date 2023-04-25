@@ -41,13 +41,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Q_3_SumInput">
+  <component name="RunManager" selected="Application.Q_11GreaterBetweenTwo">
     <configuration name="JavaBasicQuestion.src.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.main" />
       <module name="AllJavaCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaBasicQuestion.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_11GreaterBetweenTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_11GreaterBetweenTwo" />
+      <module name="AllJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasicQuestion.src.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +114,14 @@
     <list>
       <item itemvalue="Application.main" />
       <item itemvalue="Application.JavaBasicQuestion.src.main" />
+      <item itemvalue="Application.Q_11GreaterBetweenTwo" />
       <item itemvalue="Application.Q_1_and_2_SumOfTwoNum" />
       <item itemvalue="Application.Q_3_SumInput" />
       <item itemvalue="Java Scratch.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q_11GreaterBetweenTwo" />
         <item itemvalue="Application.Q_3_SumInput" />
         <item itemvalue="Application.Q_1_and_2_SumOfTwoNum" />
         <item itemvalue="Application.JavaBasicQuestion.src.main" />

@@ -1,4 +1,4 @@
-package Basic;
+package JavaBasicQuestion.src.Basic;
 
 import java.util.Scanner;
 //Accept a year and check if it a leap year or not (google to find out what's a leap year)
