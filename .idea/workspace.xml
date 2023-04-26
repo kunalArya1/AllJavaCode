@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment="Armstrong number Question ( Q.N - 45 ) Added">
+    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment="Strong number Question ( Q.N - 46 ) Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_46_StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_46_StrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_45_ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_45_ArmstrongNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_46_StrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_46_StrongNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_51_ListOfNumEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_51_ListOfNumEvenOdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +182,7 @@
       <workItem from="1682448369125" duration="121000" />
       <workItem from="1682472304630" duration="1188000" />
       <workItem from="1682497780879" duration="103000" />
-      <workItem from="1682511332436" duration="1837000" />
+      <workItem from="1682511332436" duration="3130000" />
     </task>
     <task id="LOCAL-00001" summary="Automorphic number question (Q.N - 48 ) added">
       <created>1682443696726</created>
@@ -313,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682512635770</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Strong number Question ( Q.N - 46 ) Added">
+      <created>1682513577272</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682513577272</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +345,8 @@
     <MESSAGE value="." />
     <MESSAGE value=" Harshad number Question ( Q.N - 47 ) Added" />
     <MESSAGE value="Armstrong number Question ( Q.N - 45 ) Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Armstrong number Question ( Q.N - 45 ) Added" />
+    <MESSAGE value="Strong number Question ( Q.N - 46 ) Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strong number Question ( Q.N - 46 ) Added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
