@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.java" afterDir="false" />
+    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment=" Harshad number Question ( Q.N - 47 ) Added">
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_45_ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_45_ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_46_StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_46_StrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +63,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Q_47_HarshadNumber">
-    <configuration name="Q_11GreaterBetweenTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_11GreaterBetweenTwo" />
-      <module name="AllJavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaBasicQuestion.src.Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q_45_ArmstrongNumber">
     <configuration name="Q_37_SumOfAllFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_37_SumOfAllFactor" />
       <module name="AllJavaCode" />
@@ -103,6 +92,19 @@
     </configuration>
     <configuration name="Q_43_RevrseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_43_RevrseANumber" />
+      <module name="AllJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasicQuestion.src.Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_45_ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_45_ArmstrongNumber" />
       <module name="AllJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -146,20 +148,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
+      <item itemvalue="Application.Q_45_ArmstrongNumber" />
       <item itemvalue="Application.Q_47_HarshadNumber" />
       <item itemvalue="Application.Q_38_AllFactors" />
       <item itemvalue="Application.Q_37_SumOfAllFactor" />
       <item itemvalue="Application.Q_43_RevrseANumber" />
-      <item itemvalue="Application.Q_11GreaterBetweenTwo" />
       <item itemvalue="Java Scratch.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q_45_ArmstrongNumber" />
         <item itemvalue="Application.Q_47_HarshadNumber" />
         <item itemvalue="Application.Q_38_AllFactors" />
         <item itemvalue="Application.Q_43_RevrseANumber" />
         <item itemvalue="Application.Q_37_SumOfAllFactor" />
-        <item itemvalue="Application.Q_11GreaterBetweenTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +184,7 @@
       <workItem from="1682448369125" duration="121000" />
       <workItem from="1682472304630" duration="1188000" />
       <workItem from="1682497780879" duration="103000" />
-      <workItem from="1682511332436" duration="297000" />
+      <workItem from="1682511332436" duration="1000000" />
     </task>
     <task id="LOCAL-00001" summary="Automorphic number question (Q.N - 48 ) added">
       <created>1682443696726</created>
@@ -296,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682497867050</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=" Harshad number Question ( Q.N - 47 ) Added">
+      <created>1682511765489</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682511765489</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +331,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Automorphic number question (Q.N - 48 ) added" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value=" Harshad number Question ( Q.N - 47 ) Added" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Harshad number Question ( Q.N - 47 ) Added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

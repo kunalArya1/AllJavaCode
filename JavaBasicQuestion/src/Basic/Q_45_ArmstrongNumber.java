@@ -9,7 +9,18 @@ import java.util.Scanner;
 public class Q_45_ArmstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a Number :- ");
         int num = sc.nextInt();
+        int temp = num;
+        double sumSqu = 0;
+        while ( num > 0 ){
+            int digit = num % 10;
+            sumSqu += Math.pow(digit,3);
+            num = num / 10;
+        }
+        if (temp == sumSqu){
+            System.out.println("Given Number is a Armstrong Number");
+        }else System.out.println("Given Number is not a Armstrong Number");
 
     }
 }
