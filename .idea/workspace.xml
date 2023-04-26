@@ -6,47 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_37_SumOfAllFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_37_SumOfAllFactor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_13GenderInputChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_14EvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_15ValidVoter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_16_CompoundInterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_17_HeronsFormula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_18_Quadratic_Equ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_19_DayName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_20_GreatestThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_21_LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_22_MethodExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_27_VowelCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_28_Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_29_PrintHelloNTimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_30_N_NaturalNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_31_NToOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_32_PrintTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_33_SumUpToNTerms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_34_Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_35_SumEvenAndOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_36_DivisibleBy3And5InRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_37_SumOfAllFactor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_38_AllFactors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_39_PerfectNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_40_PrintDigit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_41_SumOfDigit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_42_Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_43_RevrseANumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_44_PallindromicNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_45_ArmstrongNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_46_StrongNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_47_HarshadNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_48_AutomorphicNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_49_DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_50_ChoiceBaedCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_51_ListOfNumEvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_52_ChoicebasedWeeday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_53_27UsingSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_54_ChoiceCalSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/Basic/Q_55_Resturent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_37_SumOfAllFactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_37_SumOfAllFactor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,31 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "K:/1.P_LANGUAGE/1.JAVA/CODE/JAVA_SHERY/AllJavaCodes",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;K:/1.P_LANGUAGE/1.JAVA/CODE/JAVA_SHERY/AllJavaCodes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Q_43_RevrseANumber">
+}</component>
+  <component name="RunManager" selected="Application.Q_38_AllFactors">
     <configuration name="Q_11GreaterBetweenTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_11GreaterBetweenTwo" />
       <module name="AllJavaCode" />
@@ -115,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_1_and_2_SumOfTwoNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Q_1_and_2_SumOfTwoNum" />
+    <configuration name="Q_37_SumOfAllFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_37_SumOfAllFactor" />
       <module name="AllJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="JavaBasicQuestion.src.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_37_SumOfAllFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_37_SumOfAllFactor" />
+    <configuration name="Q_38_AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_38_AllFactors" />
       <module name="AllJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -186,20 +147,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
+      <item itemvalue="Application.Q_38_AllFactors" />
       <item itemvalue="Application.Q_37_SumOfAllFactor" />
       <item itemvalue="Application.Q_43_RevrseANumber" />
       <item itemvalue="Application.Q_11GreaterBetweenTwo" />
-      <item itemvalue="Application.Q_1_and_2_SumOfTwoNum" />
       <item itemvalue="Application.Q_3_SumInput" />
       <item itemvalue="Java Scratch.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q_38_AllFactors" />
         <item itemvalue="Application.Q_43_RevrseANumber" />
         <item itemvalue="Application.Q_37_SumOfAllFactor" />
         <item itemvalue="Application.Q_11GreaterBetweenTwo" />
         <item itemvalue="Application.Q_3_SumInput" />
-        <item itemvalue="Application.Q_1_and_2_SumOfTwoNum" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +181,7 @@
       <workItem from="1682441965528" duration="3313000" />
       <workItem from="1682445504592" duration="2659000" />
       <workItem from="1682448369125" duration="121000" />
-      <workItem from="1682472304630" duration="352000" />
+      <workItem from="1682472304630" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="Automorphic number question (Q.N - 48 ) added">
       <created>1682443696726</created>
@@ -313,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682445093981</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=".">
+      <created>1682472933781</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682472933781</updated>
+    </task>
+    <task id="LOCAL-00015" summary=".">
+      <created>1682472969307</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682472969307</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
