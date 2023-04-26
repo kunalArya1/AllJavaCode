@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_37_SumOfAllFactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AllJavaCode/JavaBasicQuestion/src/Basic/Q_37_SumOfAllFactor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasicQuestion/src/Basic/Q_47_HarshadNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Q_38_AllFactors">
+  <component name="RunManager" selected="Application.Q_47_HarshadNumber">
     <configuration name="Q_11GreaterBetweenTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_11GreaterBetweenTwo" />
       <module name="AllJavaCode" />
@@ -102,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_3_SumInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Q_3_SumInput" />
+    <configuration name="Q_43_RevrseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_43_RevrseANumber" />
       <module name="AllJavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.*" />
+          <option name="PATTERN" value="JavaBasicQuestion.src.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_43_RevrseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_43_RevrseANumber" />
+    <configuration name="Q_47_HarshadNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicQuestion.src.Basic.Q_47_HarshadNumber" />
       <module name="AllJavaCode" />
       <extension name="coverage">
         <pattern>
@@ -147,20 +146,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
+      <item itemvalue="Application.Q_47_HarshadNumber" />
       <item itemvalue="Application.Q_38_AllFactors" />
       <item itemvalue="Application.Q_37_SumOfAllFactor" />
       <item itemvalue="Application.Q_43_RevrseANumber" />
       <item itemvalue="Application.Q_11GreaterBetweenTwo" />
-      <item itemvalue="Application.Q_3_SumInput" />
       <item itemvalue="Java Scratch.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q_47_HarshadNumber" />
         <item itemvalue="Application.Q_38_AllFactors" />
         <item itemvalue="Application.Q_43_RevrseANumber" />
         <item itemvalue="Application.Q_37_SumOfAllFactor" />
         <item itemvalue="Application.Q_11GreaterBetweenTwo" />
-        <item itemvalue="Application.Q_3_SumInput" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +181,8 @@
       <workItem from="1682445504592" duration="2659000" />
       <workItem from="1682448369125" duration="121000" />
       <workItem from="1682472304630" duration="1188000" />
+      <workItem from="1682497780879" duration="103000" />
+      <workItem from="1682511332436" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="Automorphic number question (Q.N - 48 ) added">
       <created>1682443696726</created>
@@ -288,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682472969307</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary=".">
+      <created>1682497867050</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682497867050</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
