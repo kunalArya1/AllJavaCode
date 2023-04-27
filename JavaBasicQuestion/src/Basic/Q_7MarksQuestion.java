@@ -12,7 +12,7 @@ public class Q_7MarksQuestion {
         System.out.print("Enter your computer marks : ");
         int computer = sc.nextInt();
         System.out.print("Enter your english marks : ");
-        int english = sc.nextInt();
+//        int english = sc.nextInt();
         System.out.println("Your total marks are : "+ totalMarks(math,computer,english));
         System.out.println("Your percentage is : "+Percentage(math,computer,english)+"%");
     }
