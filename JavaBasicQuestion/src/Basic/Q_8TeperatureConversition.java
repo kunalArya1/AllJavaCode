@@ -7,7 +7,7 @@ public class Q_8TeperatureConversition {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter temperature in Farn : ");
         int farn = sc.nextInt();
-        System.out.println("Temperature in celsius : " +TemperatureConv(farn));
+//        System.out.println("Temperature in celsius : " +TemperatureConv(farn));
     }
     public static double TemperatureConv(int far){
         return ((far-32)/1.8);
