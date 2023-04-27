@@ -13,7 +13,7 @@ public class Q_51_ListOfNumEvenOdd {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Number:- ");
 
-//        int num = sc.nextInt();
+        int num = sc.nextInt();
     }
 
 }
