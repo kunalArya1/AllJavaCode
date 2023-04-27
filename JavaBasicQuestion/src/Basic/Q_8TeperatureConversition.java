@@ -9,7 +9,7 @@ public class Q_8TeperatureConversition {
         int farn = sc.nextInt();
         System.out.println("Temperature in celsius : " +TemperatureConv(farn));
     }
-    public static double TemperatureConv(int far){
-        return ((far-32)/1.8);
-    }
+//    public static double TemperatureConv(int far){
+//        return ((far-32)/1.8);
+//    }
 }
