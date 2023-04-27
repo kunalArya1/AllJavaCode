@@ -10,7 +10,7 @@ public class Q_38_AllFactors {
         int num = sc.nextInt();
         for (int i = 1; i <= (num/2); i++) {
             if (num % i == 0){
-                System.out.println(i);
+//                System.out.println(i);
             }
         }
 
