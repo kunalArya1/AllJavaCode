@@ -12,10 +12,10 @@ public class Q_37_SumOfAllFactor {
         for (int i = 1; i <= (n/2); i++) {
             if (n%i==0){
                 allFactorSum += i;
-//                System.out.println(i);
+                System.out.println("Factor is :- "+i);
             }
         }
-        System.out.println(allFactorSum);
+        System.out.println("Sum of All Factor :- "+allFactorSum);
     }
 
 }
