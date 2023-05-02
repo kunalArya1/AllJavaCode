@@ -9,8 +9,32 @@ public class Q_48_AutomorphicNumber {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Number :- ");
         int num = sc.nextInt();
-        double squNum = Math.sqrt(num);
-        System.out.println(squNum);
-
+//        method1(num);
+        method2(num);
+    }
+    public static void method2(int num ){
+        String length = "" + num;
+        int squNum = (int)Math.pow(num,2);
+        int endDigit = squNum % (int)Math.pow(10,length.length());
+        if(endDigit == num ){
+            System.out.println("Automporphic number");
+        }else{
+            System.out.println("Not Automporphic number");
+        }
+    }
+    public static void method1(int num){
+        int temp = num ;
+        int squNum = (int)Math.pow(num,2);
+        int digitCont = 0;
+        while (num > 0){
+            num = num / 10;
+            digitCont++;
+        }
+        int endDigit =squNum % (int)Math.pow(10,digitCont);
+        if(endDigit == temp ){
+            System.out.println("Automporphic number");
+        }else{
+            System.out.println("Not Automporphic number");
+        }
     }
 }
