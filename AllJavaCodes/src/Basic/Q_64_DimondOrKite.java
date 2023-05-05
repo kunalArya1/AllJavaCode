@@ -33,5 +33,11 @@ public class Q_64_DimondOrKite {
 
             }
         }
+
+    public static class Q_65_V_MinHeight_3 {
+        public static void main(String[] args) {
+
+        }
     }
+}
 
