@@ -1,7 +1,7 @@
 package Basic;
 
 import java.util.Scanner;
-
+//70- Fibonacci series - 0, 1, 1, 2, 3, 5, 8, 13, 21...
 public class Q_70_FibonacciSeries {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

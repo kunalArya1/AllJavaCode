@@ -1,7 +1,7 @@
 package Basic;
 
 import java.util.Scanner;
-
+//69- Find the LCM of two numbers
 public class Q_69_LCM {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
