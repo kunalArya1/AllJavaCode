@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Q_71_Generate4digitOTP {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        System.out.println("Your OTP is :- "+(int)(Math.random()*10000));
 
     }
 }
