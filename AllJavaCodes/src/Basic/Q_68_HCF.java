@@ -1,7 +1,7 @@
 package Basic;
 
 import java.util.Scanner;
-
+//68- Take 2 numbers as inputs and find their HCF.
 public class Q_68_HCF {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
