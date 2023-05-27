@@ -14,13 +14,14 @@ public class Q_74_GreatestElementInArray {
             arr[i] = sc.nextInt();
         }
         int gNumber = 0;
+        int sgnum = 0;
         int index =0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > gNumber){
+                sgnum = gNumber;
                 gNumber = arr[i];
                 index = i;
             }
-        }
-        System.out.println("Greatest Number is :- "+ gNumber +" and found at index :- " + index);
+        }System.out.println("Greatest Number is :- "+ gNumber +" and found at index :- " + index);
     }
 }
