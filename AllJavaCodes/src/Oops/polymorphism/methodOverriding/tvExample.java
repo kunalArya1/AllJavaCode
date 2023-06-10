@@ -1,4 +1,4 @@
-package Oops.methodOverriding;
+package Oops.polymorphism.methodOverriding;
 class tv{
     public void switchOn(){
         System.out.println("Tv Switched On");

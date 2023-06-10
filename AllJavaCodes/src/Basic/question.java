@@ -57,17 +57,6 @@ public class question {
 	*       *
 	* * * * *
 
-------------------------------------------------------------
-
-    __Task for 3 May__
-        -> Do all pattern given above
-        -> Do all pattern given by Striver
-        -> Do all pattern given by Kunal Kushwaha
-
--------------------------------------------------------------
-
-
-
 68- Take 2 numbers as inputs and find their HCF.
 
 69- Find the LCM of two numbers
@@ -94,6 +83,13 @@ public class question {
 
 78- Array Reverse Using Extra space
 
+-----------------------------------------------------------
+
+ Task for 28 May
+
+ 
+ -----------------------------------------------------------
+
 79- Array left Rotation by 1
 
 80- Array right Rotation by 1
@@ -118,5 +114,18 @@ Example : arr= [2,3,15,15,3,2]
 89- Move all the negative elements on left side and positive elements on right side with extra space in O(n).
 
 90- Move all the negative elements on left side and positive elements on right side without extra space in O(n).
+
+91- Bubble Sort.
+
+92- Median of Array elements
+
+93- Strong number using methods
+
+94- Check if a number is X or not. X is the number whole repeated sum of digits is equal to 1
+
+Ex- 109 = 1 + 0 + 9 = 10 = 1 + 0 = 1 - Keep adding digits untill it becomes a single digit number
+
+95- Prime number using methods.
+
  */
 }
