@@ -1,0 +1,345 @@
+1 - Sum of two integers
+2- Print the messege along with values and sum
+	Ex - The sum of 45 & 12  = 57
+3- Accept two integers from user and print the sum
+	Ex - The sum of 45 & 12 = 57
+4- Accept the User's name, age and print in following manner
+	Ex - Hello Shery, you are 12 years old.
+5- Accept the length and breadth of a rectangle.Calculate & print the area and perimiter.
+6- Solve Increment & decrement operator questions on
+	https://javaconceptoftheday.com/quiz-on-increment-and-decrement-operators/
+7- Accept the marks of Robert in three subjects Maths, Computer, English respectively (each out of 100 ), 
+    Write a program to calculate his total marks and percentage marks.
+8- Write a program to accept temperature in Fahrenheit & convert into Celsius. (Look for the formula on internet)
+9- Accept the Principle amount, time & rate of interest and calculate the Simple Interest
+10- Take 3 int inputs from user and check and print the result.
+	all are equal
+	any of two are equal
+	( use && ||)
+11- Accept two numbers and print the greatest between them
+12- Accept the gender from the user as char and print the respective greeting message
+     Ex - Good Morning Sir (on the basis of gender)
+13- Extend the previous program and handle the wrong inputs.
+      Print Good Morning sir for input m or M & Good morning Maam for input F or f 
+      else print Wrong Input
+14- Accept an integer and check whether it is an even number or odd.
+15- Accept name and age from the user. Check if the user is a valid voter or not.
+      Vaid - Hello Shery, You are a valid voter.
+      Invalid - Sorry Shery, you can't cast the vote.
+	Part 2 - Print after how many years the user will be eligible
+16- Accept the parameters and calculate the Compound Interest & print it on STDOUT (Use Math class methods)
+17- Accept the three sides of triangle and calculate the area using herons formula
+18- Accept the value of a, b, c - The values in a quadratic equation and find its roots.
+19- Accept a day number between 1-7 and print the corresponding dayname.
+20- Accept three numbers and print the greatest among them
+21- Accept a year and check if it a leap year or not (google to find out what's a leap year)
+22.Write a program that will ask the user to enter his/her marks (out of 100). Define a method   that will display grades according to the marks entered as below:
+ 	 Marks        Grade 
+ 	 91-100         AA 
+	 81-90           AB 
+	 71-80           BB 
+  	 61-70           BC 
+  	 51-60           CD 
+  	 41-50           DD 
+  	 <=40            F
+
+23- Shop discount - Description on Graphic
+24- Bijli Bill - Description on Graphic
+25- INR Denomination - Description on Graphic
+26.The International Standard Book Number (ISBN) is a unique numeric book identifier which is printed on every book. 
+     The ISBN is based upon a 10-digit code.
+ 	The ISBN is legal if:
+ 	1 × digit1 + 2 × digit2 + 3 × digit3 + 4 × digit4 + 5 × digit5 + 6 × digit6 + 7 × digit7 + 8 × digit8 + 9 × digit9 + 10 × digit 10 is divisible by 11.
+ 	Example : For an ISBN 1401601499
+ 	Sum = 1×1 + 2×4 +3×0 + 4×1 + 5×6 + 6×0 + 7×1 + 8×4 + 9×9 + 10×9 = 253 which is divisible by 11.
+ 	Write a program to :
+ 	(i) Input the ISBN code as a 10-digit integer.
+ 	(ii) If the ISBN is not a 10-digit integer, output the message, “Illegal ISBN” and terminate the program.
+ 	(iii) If the number is 10-digit, extract the digits of the number and compute the sum as explained above.
+ 	      If the sum is divisible by 11, output the message, “Legal ISBN”. If the sum is not divisible by 11, output the message, “Illegal ISBN”. 
+27- Accept an english alphabet from user and check if it is a consonent or a vowel;
+28- Accept two numbers from user and swap their values
+      Part 2 - Swap without using third variable
+29- Accept an integer and Print hello world n times
+30- Print natural number up to n. 
+31- Reverse for loop. Print n to 1.
+32- Take a number as input and print its table
+       5 * 1 = 5
+       5 * 2 = 10 ... up to 10 terms
+33- Sum up to n terms.
+34- Factorial of a number
+35- Print the sum of all even & odd numbers in a range seperately.
+36- Print all the numbers which are either divisible by 3 or 5 in a range
+37- Print all the factors of a number.
+38- Print the sum of all factors of a number, 50 - 1 + 2 + 5 + 10 + 25 = 43
+39- Accept a number and check if it a perfect number or not.
+      A number whose sum of factors(excluding number itself)  = Number 
+      Ex -  6 = 1, 2, 3 = 6
+40- Seprate each digit of a number and print it on the new line
+41- Sum of digits of a number, 936 = 18
+42- Check if the number is Prime or not.
+43- Accept a number and print its reverse
+44- Accept a number and check if it is a pallindromic number (If number and its reverse are equal)
+       Ex - 12321 - Rerverse - 12321
+45- Accept a number and check if it is a armstrong number (Sum of cube of all digits will be equal to origional number)
+       Ex - 407 = 64 + 0 + 343 = 407
+              153 = 1 + 125 + 27 = 153
+46- Accept a number and check if it is a strong number or not (Sum of factorial of each digit)
+       Ex- 145 = 1! + 4! + 5! = 145
+47- Accept a number and check if it is a Harshad number 
+      Harshad number is a number or an integer which is completely divisible by sum of  its digits.
+      Ex - 24 = Sum of 2+4 = 6 & 24%6 = 0
+48- Automorphic number 5 = 25 = 625 = 390625
+49- Print hello until user gives wrong input using do while
+50- Make a choice based calculator using do while
+51- Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers 
+       from a list of numbers (N) entered by the user. 
+       The list terminates when the user enters a zero.
+52- Choice based weeday
+53- Question 27 using Switch
+54- Choice calc using switch
+55- Restuarent
+56- Right Triangle - Star
+	*
+	* *
+	* * *
+	* * * *
+	* * * * *	
+57- Right Triangle - Number
+	1
+	1 2
+	1 2 3 
+	1 2 3 4
+	1 2 3 4 5
+58- Right Triangle - Alphabet
+	A
+	A B
+	A B C
+	A B C D
+	A B C D E
+59- Inverted Right Triangle
+	* * * * *
+	* * * *
+	* * *
+	* *
+	*
+60- Mirrored Right Triangle
+	        *
+	      * *
+	    * * *
+	  * * * *
+	* * * * *
+61- Mirrored Inverted Right Triangle
+    * * * * *
+	  * * * *
+	    * * *
+	      * *
+	        *
+62- Triangle
+	    *
+	   * *
+	  * * *
+	 * * * *
+	* * * * *	
+63- Inverted Triangle
+     * * * * *
+	 * * * *
+	  * * *
+	   * *
+	    *
+64- Diamond or Kite
+	     *      
+	    * *     
+	   * * *    
+	  * * * *   
+	 * * * * *  
+	* * * * * * 
+	 * * * * *  
+	  * * * *   
+	   * * *    
+	    * *     
+	     *   
+65- V - Min Height = 3
+	*       * 
+	 *     *  
+	  *   *   
+	   * *    
+	    * 
+66- X
+	*        *
+	  *   *	
+	    *
+	 *     *
+   *         *
+67- Hollow Rectangle
+	* * * * *
+	*       *
+	*       *
+	*       *
+	* * * * *
+68- Take 2 numbers as inputs and find their HCF.
+69- Find the LCM of two numbers
+70- Fibonacci series - 0, 1, 1, 2, 3, 5, 8, 13, 21...
+71- Generate 4 digit OTP
+72- Accept size n from user and create a n size array then take n inputs into the and finally 
+      Print the sum of all elements in the array in the following manner
+      10 + 20 + 30 = 60
+73- Mean of array elements.
+74- Find the greatest element and print its index too.
+      {2, 96, 69, 77, 145, 20} = Max element = 145 found at 4 index
+75- Find the smallest element and print its index too.
+      {2, 96, 69, 77, 145, 20} = Min element = 2 found at 0 index
+76- Find the second greatest element 
+      {2, 96, 69, 77, 145, 20} = Second greatest element = 96
+77- Check if array is sorted or not.
+78- Array Reverse Using Extra space 
+79- Array left Rotation by 1
+80- Array right Rotation by 1
+81- Array left rotation by K elements
+82-	Can you Do it in O(n) ?
+83- Array rigth rotation by K elements
+84-	Can you Do it in O(n) ?
+85- Pallindromic array - Write a program to check if elements of an array are same or not it read from front or back
+      Example : arr= [2,3,15,15,3,2]
+86- Array Reverse Without Using Extra space
+87- Linear Search an array - If element found print the index else -1
+88- Binary Search. If element found print the index else -1
+89- Move all the negative elements on left side and positive elements on right side with extra space in O(n).
+90- Move all the negative elements on left side and positive elements on right side without extra space in O(n).
+91- Bubble Sort. 
+92- Median of Array elements
+93- Strong number using methods
+94- Check if a number is X or not. X is the number whole repeated sum of digits is equal to 1
+       Ex- 109 = 1 + 0 + 9 = 10 = 1 + 0 = 1 - Keep adding digits untill it becomes a single digit number 
+95- Prime number using methods.
+96- Leetcode 1929 - Concatenation of array 
+97- Leetcode 1920 - Build Array from Permutation
+98- Leetcode 1470 - Shuffle the Array
+99- Leetcode 1512 - Number of good pairs
+100- Leetcode 852 - Peak Index in a Mountain Array
+101- Accept a string from user and print its each character on a new line
+102- Accept a string and print it in reverse order
+103- Check if the string is Pallindromic or not
+104- Pallindromic String using method and Two pointer algorithm (hint: Array reverse algo)
+105- Count vowels and consonents in a string
+106- Toggle each alphabet of String 
+       In - AcgDfD Output - aCGdFd 
+107- Accept a space seperated sentence and split in into words. Print each word on a new line with first letter capitalized.
+      IN-      Hello bhai kaise ho
+      OP-     Hello
+                 Bhai
+                 Kaise
+                 Ho
+108- Extend the prev question and capitalize first & last character of each word in the sentence and print the new sentence
+      Ex - 	Hello bhai Kaise ho a
+	HellO BhaI KaisE HO A
+109- Accept a string and print the frequency of each character present in the string
+110- Leetcode 1704 - Determine if String Halves Are Alike
+111- Take a string and to modify a word by bringing all the vowels in the word at the beginning followed by the consonants.
+         Example : ORIGINAL becomes OIIARGNL
+112- Take a sentence and check whether it has all words beginning with a capital letter or not.
+113- Check Two Strings are Anagram or Not
+        Anagrams words have the same word length & same character count
+        Examples of anagram words are arc and car, state and taste, night and thing etc.
+114- Sort the words of the sentence
+115- Leetcode 202 - Happy Number
+116- Leetcode 728 - Self Dividing Numbers
+117- Leetcode 1342 - Number of Steps to Reduce a Number to Zero
+118- A disarium number is a number in which the sum of the digits to the power of their respective position is equal to the
+        number itself.
+        Example: 135 = 11 + 32 + 53
+119- Write a program to input a number and check and print whether it is a Pronic number or not. 
+        (Pronic number is the number which is the product of two consecutive integers)
+        Examples : 12 = 3 × 4
+                          20 = 4 × 5
+                          42 = 6 × 7
+---------------------------------------------------------- Recursion-----------------------------------------------------
+120- Print hello n times
+121- Print natural numbers 1-n
+122- Print natural numbers n-1
+123- Sum of first n natural numbers
+124- Factorial of a number
+125- Sum of Digits of a number
+126- Reverse a number
+127- Fibonacci Numbers
+128- GCD or HCF of two numbers
+129- Check if a string is Pallindromic or not
+130- Recursive Binary Search
+
+---------------------------------------------------------- Hashing -----------------------------------------------------
+131- Find the repeating elements in an array
+132- Find the freqency of elements in an integer array
+133- Leetcode 1 - Two Sum
+134- Leetcode 1832 - Check if the sentence is Pangram or not.
+135- Leetcode 349 - Intersection of Two Arrays
+136- Leetcode 1346 - Check If N and Its Double Exist
+137- Leetcode 771 - Jewels and Stones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
