@@ -1,4 +1,4 @@
-package multiThreading;
+package AllJavaCodes.src.multiThreading;
  class test implements Runnable{
     @Override
     public void run() {

@@ -1,4 +1,4 @@
-package array.Gfg;
+package AllJavaCodes.src.array.Gfg;
 
 import java.util.Arrays;
 

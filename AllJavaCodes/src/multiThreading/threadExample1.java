@@ -1,4 +1,4 @@
-package multiThreading;
+package AllJavaCodes.src.multiThreading;
 class  myThread extends Thread{
     @Override
     public void run() {

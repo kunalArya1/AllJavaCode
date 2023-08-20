@@ -1,4 +1,4 @@
-package array.questions;
+package AllJavaCodes.src.array.questions;
 
 import java.util.Arrays;
 

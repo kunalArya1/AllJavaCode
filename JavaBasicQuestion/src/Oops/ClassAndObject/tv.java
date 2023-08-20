@@ -1,4 +1,4 @@
-package Oops.ClassAndObject;
+package JavaBasicQuestion.src.Oops.ClassAndObject;
  class television{
     public int channel;
     private int volume;

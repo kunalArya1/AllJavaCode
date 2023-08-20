@@ -1,4 +1,4 @@
-package lambda_Expression;
+package AllJavaCodes.src.lambda_Expression;
 interface mulPar{
     public void add(int a1, int b1);
     default void print(){

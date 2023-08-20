@@ -1,4 +1,4 @@
-package exceptionHandling;
+package JavaBasicQuestion.src.exceptionHandling;
 
 public class tryAndCatch {
     public static void main(String[] args) {

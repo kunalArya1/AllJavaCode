@@ -1,4 +1,4 @@
-package sorting_Algo;
+package AllJavaCodes.src.sorting_Algo;
 
 import java.util.Arrays;
 

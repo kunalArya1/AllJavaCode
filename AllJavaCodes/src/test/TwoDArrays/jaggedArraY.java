@@ -1,4 +1,4 @@
-package test.TwoDArrays;
+package AllJavaCodes.src.test.TwoDArrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

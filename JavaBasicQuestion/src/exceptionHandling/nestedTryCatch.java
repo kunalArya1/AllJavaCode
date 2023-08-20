@@ -1,4 +1,4 @@
-package exceptionHandling;
+package JavaBasicQuestion.src.exceptionHandling;
 
 public class nestedTryCatch {
     public static void main(String[] args) {

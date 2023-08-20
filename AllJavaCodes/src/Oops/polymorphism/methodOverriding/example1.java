@@ -1,4 +1,4 @@
-package Oops.polymorphism.methodOverriding;
+package AllJavaCodes.src.Oops.polymorphism.methodOverriding;
 class parent{
     public void display(){
         System.out.println("Hello from parent class");

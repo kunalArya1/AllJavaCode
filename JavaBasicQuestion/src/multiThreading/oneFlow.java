@@ -1,4 +1,4 @@
-package multiThreading;
+package JavaBasicQuestion.src.multiThreading;
 
 public class oneFlow {
     static void display(){

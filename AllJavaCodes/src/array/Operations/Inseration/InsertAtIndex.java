@@ -1,4 +1,4 @@
-package array.Operations.Inseration;
+package AllJavaCodes.src.array.Operations.Inseration;
 
 import java.util.Arrays;
 

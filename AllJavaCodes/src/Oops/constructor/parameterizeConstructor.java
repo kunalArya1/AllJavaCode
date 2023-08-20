@@ -1,4 +1,4 @@
-package Oops.constructor;
+package AllJavaCodes.src.Oops.constructor;
 
 public class parameterizeConstructor {
     public static void main(String[] args) {

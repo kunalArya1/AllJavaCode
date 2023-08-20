@@ -1,4 +1,4 @@
-package lambda_Expression;
+package AllJavaCodes.src.lambda_Expression;
 @FunctionalInterface
  interface mylambda {
     public void display();

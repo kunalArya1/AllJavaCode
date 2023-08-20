@@ -1,4 +1,4 @@
-package Linked_List;
+package AllJavaCodes.src.Linked_List;
 
 public class DeleteFirstNode {
     public static void main(String[] args) {

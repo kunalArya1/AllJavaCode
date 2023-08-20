@@ -1,4 +1,4 @@
-package Lt_test;
+package AllJavaCodes.src.Lt_test;
 
 import java.util.Arrays;
 

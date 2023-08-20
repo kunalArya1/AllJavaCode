@@ -1,4 +1,4 @@
-package array.Operations.Deletion;
+package AllJavaCodes.src.array.Operations.Deletion;
 
 import java.util.Arrays;
 

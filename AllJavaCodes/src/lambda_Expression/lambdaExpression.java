@@ -1,4 +1,4 @@
-package lambda_Expression;
+package AllJavaCodes.src.lambda_Expression;
 interface  yourlambda{
    public void display();
    default void print(){

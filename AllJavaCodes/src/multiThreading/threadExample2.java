@@ -1,4 +1,4 @@
-package multiThreading;
+package AllJavaCodes.src.multiThreading;
 
 public class threadExample2 extends Thread {
     @Override

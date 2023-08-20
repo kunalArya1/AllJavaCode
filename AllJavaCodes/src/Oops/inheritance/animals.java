@@ -1,4 +1,4 @@
-package Oops.inheritance;
+package AllJavaCodes.src.Oops.inheritance;
 
 public class animals {
     public static void main(String[] args) {

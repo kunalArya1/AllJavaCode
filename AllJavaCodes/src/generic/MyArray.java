@@ -1,4 +1,4 @@
-package generic;
+package AllJavaCodes.src.generic;
 class array<T >{
     T array[] = (T[]) new  Object[10];
     int length = 0;

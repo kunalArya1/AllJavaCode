@@ -1,4 +1,4 @@
-package array.questions;
+package AllJavaCodes.src.array.questions;
 
 public class ArrayIsSorted {
     public static void main(String[] args) {

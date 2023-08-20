@@ -1,4 +1,4 @@
-package Recursion;
+package AllJavaCodes.src.Recursion;
 
 public class functionClallWork {
     public static void main(String[] args) {

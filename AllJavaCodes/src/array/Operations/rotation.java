@@ -1,4 +1,4 @@
-package array.Others;
+package AllJavaCodes.src.array.Operations;
 
 import java.util.Arrays;
 

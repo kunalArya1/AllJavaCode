@@ -1,4 +1,4 @@
-package generic;
+package AllJavaCodes.src.generic;
 
 public class GenericClas<T> {
     T data[] =(T[]) new Object[3];

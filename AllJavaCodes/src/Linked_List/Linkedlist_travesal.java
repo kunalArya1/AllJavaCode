@@ -1,4 +1,4 @@
-package Linked_List;
+package AllJavaCodes.src.Linked_List;
 
 public class Linkedlist_travesal {
     public static void main(String[] args) {

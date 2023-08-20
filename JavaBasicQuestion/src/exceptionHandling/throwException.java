@@ -1,4 +1,4 @@
-package exceptionHandling;
+package JavaBasicQuestion.src.exceptionHandling;
 
 public class throwException {
     static void meth1(){

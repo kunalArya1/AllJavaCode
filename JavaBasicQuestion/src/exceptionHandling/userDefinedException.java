@@ -1,4 +1,4 @@
-package exceptionHandling;
+package JavaBasicQuestion.src.exceptionHandling;
 class lowBalanceException extends Exception{
     public String toString(){
         return "Min Balance Should Not be less 500";

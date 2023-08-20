@@ -1,4 +1,4 @@
-package Linked_List;
+package AllJavaCodes.src.Linked_List;
 class  Node{
     int value;
     Node next;

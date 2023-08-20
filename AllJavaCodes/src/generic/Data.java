@@ -1,4 +1,4 @@
-package generic;
+package AllJavaCodes.src.generic;
 import java.util.*;
 class GenericData<T>{
     private  T obj;

@@ -1,4 +1,4 @@
-package array.Operations.Searching;
+package AllJavaCodes.src.array.Operations.Searching;
 
 public class LinearSearch {
     public static void main(String[] args) {

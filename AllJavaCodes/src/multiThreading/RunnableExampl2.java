@@ -1,4 +1,4 @@
-package multiThreading;
+package AllJavaCodes.src.multiThreading;
 
 public class RunnableExampl2  implements Runnable{
     @Override

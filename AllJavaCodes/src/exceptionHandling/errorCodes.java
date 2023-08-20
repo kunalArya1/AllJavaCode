@@ -1,6 +1,6 @@
 package exceptionHandling;
 
-public class errorCode {
+public class errorCodes {
     public static void main(String[] args) {
         int a=5;
         int b=0;

@@ -1,4 +1,4 @@
-package array.Gfg;
+package AllJavaCodes.src.array.Gfg;
 
 public class SecondLargest {
     public static void main(String[] args) {

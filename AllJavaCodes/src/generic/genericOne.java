@@ -1,4 +1,4 @@
-package generic;
+package AllJavaCodes.src.generic;
 
 public class genericOne {
 //    public static void main(String[] args) {

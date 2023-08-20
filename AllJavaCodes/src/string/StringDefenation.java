@@ -1,4 +1,4 @@
-package string;
+package AllJavaCodes.src.string;
 
 public class StringDefenation {
     public static void main(String[] args) {

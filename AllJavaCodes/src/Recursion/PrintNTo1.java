@@ -1,4 +1,4 @@
-package Recursion;
+package AllJavaCodes.src.Recursion;
 
 public class PrintNTo1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Stack;
+package AllJavaCodes.src.Stack;
 
 
 class MyStack{

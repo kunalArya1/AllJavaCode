@@ -1,4 +1,4 @@
-package Lt_test;
+package AllJavaCodes.src.Lt_test;
 
 public class MissingNumber {
     public static void main(String[] args) {

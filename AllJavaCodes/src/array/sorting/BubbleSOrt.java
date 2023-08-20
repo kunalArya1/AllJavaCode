@@ -1,4 +1,4 @@
-package array.sorting;
+package AllJavaCodes.src.array.sorting;
 
 import java.util.Arrays;
 
