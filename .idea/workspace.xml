@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment="Strong number Question ( Q.N - 46 ) Added" />
+    <list default="true" id="e5ee457b-0f0a-4fc9-b4c0-a5e30ea2e69a" name="Changes" comment="Strong number Question ( Q.N - 46 ) Added">
+      <change afterPath="$PROJECT_DIR$/AllJavaCodes/src/array/ArrayList/ArrayListClear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllJavaCodes/src/array/ArrayList/ArrayListClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllJavaCodes/src/array/ArrayList/ArrayListContains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllJavaCodes/src/array/Others/rotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllJavaCodes/src/array/Others/rotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllJavaCodes/src/array/sorting/OptimizeBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllJavaCodes/src/array/sorting/OptimizeBubbleSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;K:/1.P_LANGUAGE/1.JAVA/CODE/JAVA_SHERY/AllJavaCodes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;K:/1.P_LANGUAGE/P_LANGUAGE/1.JAVA/CODE/JavaScriptCode&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -181,6 +187,7 @@
       <workItem from="1682497780879" duration="103000" />
       <workItem from="1682511332436" duration="3130000" />
       <workItem from="1682529981238" duration="106000" />
+      <workItem from="1692461827492" duration="219000" />
     </task>
     <task id="LOCAL-00001" summary="Automorphic number question (Q.N - 48 ) added">
       <created>1682443696726</created>
